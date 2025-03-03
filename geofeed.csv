@@ -1,7 +1,7 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Charged IT Solutions LLC Geofeed,lastupdated (rfc3339): 2025-02-20T00:00:00-04:00
+# Charged IT Solutions LLC Geofeed,lastupdated (rfc3339): 2025-03-02T00:00:00-04:00
 
-# PHX
+# Phoenix, AZ
 23.150.24.0/24,US,US-AZ,Phoenix,85034
 23.184.56.64/27,US,US-AZ,Phoenix,85034
 23.184.56.128/25,US,US-AZ,Phoenix,85034
@@ -10,12 +10,12 @@
 2602:299::/44,US,US-AZ,Phoenix,85034
 2602:299:10::/44,US,US-AZ,Phoenix,85034
 
-# MIA
+# Miami, FL
 23.184.56.0/27,US,US-FL,Miami,33132
 2602:299:20::/44,US,US-FL,Miami,33132
 2602:299:40::/48,US,US-FL,Miami,33132
 
-# LHR
+# London, UK
 23.184.56.32/27,GB,GB-LND,London,E14 9GE
+2602:299:50::/44,GB,GB-LND,London,E14 9GE
 
-# Cust Routes
