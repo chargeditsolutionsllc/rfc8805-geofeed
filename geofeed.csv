@@ -1,20 +1,20 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Charged IT Solutions LLC Geofeed,lastupdated (rfc3339): 2025-03-19T09:50:00-04:00
+# Charged IT Solutions LLC Geofeed,lastupdated (rfc3339): 2025-03-21T11:42:00-04:00
 
 # Phoenix, AZ
-23.150.24.0/24,US,US-AZ,Phoenix
-23.184.56.64/27,US,US-AZ,Phoenix
-173.208.67.0/24,US,US-AZ,Phoenix
-130.51.94.0/24,US,US-AZ,Phoenix
-2602:299::/44,US,US-AZ,Phoenix
-2602:299:10::/44,US,US-AZ,Phoenix
+23.150.24.0/24,US,US-AZ,Phoenix,
+23.184.56.64/27,US,US-AZ,Phoenix,
+173.208.67.0/24,US,US-AZ,Phoenix,
+130.51.94.0/24,US,US-AZ,Phoenix,
+2602:299::/44,US,US-AZ,Phoenix,
+2602:299:10::/44,US,US-AZ,Phoenix,
 
 # Miami, FL
-23.184.56.0/27,US,US-FL,Miami
-2602:299:20::/44,US,US-FL,Miami
-2602:299:40::/48,US,US-FL,Miami
+23.184.56.0/27,US,US-FL,Miami,
+2602:299:20::/44,US,US-FL,Miami,
+2602:299:40::/48,US,US-FL,Miami,
 
 # London, UK
-23.184.56.32/27,GB,GB-LND,London
-2602:299:50::/44,GB,GB-LND,London
+23.184.56.32/27,GB,GB-LND,London,
+2602:299:50::/44,GB,GB-LND,London,
 
